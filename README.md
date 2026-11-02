@@ -24,7 +24,7 @@ A 12-page restaurant website built with **pure HTML and CSS** (no JavaScript, no
 - Single shared stylesheet: `assets/css/style.css`
 - Mobile navigation menu and FAQ accordion are built with the CSS-only checkbox hack (no JavaScript used anywhere)
 - Fully responsive layout (flexbox/grid with breakpoints for tablet and mobile)
-- Images are represented with styled CSS placeholder blocks — swap `.media-block` divs for real `<img>` tags when real photography is available
+- Real photography throughout (`assets/images/`), licensed free-to-use stock photos — hero backgrounds, dish photography, interiors, and team portraits, with CSS-only hover zoom on gallery/card images
 
 ## Running locally
 
